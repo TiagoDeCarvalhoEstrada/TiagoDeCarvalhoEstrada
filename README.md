@@ -7,6 +7,6 @@
 
 <div>
   <a href="https://github.com/TiagoDeCarvalhoEstrada">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoDeCarvalhoEstrada&show_icons=true&theme=merko">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoDeCarvalhoEstrada&show_icons=true&theme=transparent">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoDeCarvalhoEstrada&layout=compact">
 </div>
