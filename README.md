@@ -3,7 +3,7 @@
 - 🔭 estou atualmente trabalhando em me tornar um profissional da tecnologia.
 - 🌱 estou atualmente estudando: HTML, CSS, JavaScript, Python.
 - 💬 entre em contato em: etcarvalhoe@gmail.com
-- ⚡ curiosidade: jogo basquete>
+- ⚡  curiosidade: jogo basquete.
 -------------------
 <div>
   <a href="https://github.com/TiagoDeCarvalhoEstrada">
