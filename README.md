@@ -3,7 +3,7 @@
 - 🔭 estou atualmente trabalhando em me tornar um profissional da tecnologia.
 - 🌱 estou atualmente estudando: HTML, CSS, JavaScript, Python.
 - 💬 entre em contato em: etcarvalhoe@gmail.com
-- ⚡  curiosidade: jogo basquete.
+- ⚡  curiosidade: 🥊luto boxe🥊
 -------------------
 <div>
   <a href="https://github.com/TiagoDeCarvalhoEstrada">
@@ -19,7 +19,7 @@
 --------------------
 
 <div> 
-  <a href="https://https://instagram.com/etcarvalhoe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/etcarvalhoe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/TiagoDeCarvalhoEstrada/TiagoDeCarvalhoEstrada/blob/output/github-contribution-grid-snake.svg)
