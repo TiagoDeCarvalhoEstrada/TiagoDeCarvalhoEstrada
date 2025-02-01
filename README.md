@@ -1,9 +1,9 @@
-### PERFIL DO TIAGOLA
+### PERFIL DO TIAGO
 
 - 🔭 estou atualmente trabalhando em me tornar um profissional da tecnologia.
 - 🌱 estou atualmente estudando: HTML, CSS, JavaScript, Python.
 - 💬 entre em contato em: etcarvalhoe@gmail.com
-- ⚡  curiosidade: 🥊luto boxe🥊
+- ⚡  curiosidade: 🥊luto boxe, muai thay🥊
 -------------------
 <div>
   <a href="https://github.com/TiagoDeCarvalhoEstrada">
